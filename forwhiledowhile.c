@@ -13,7 +13,7 @@ int main(){
   for (int i=0; i<counter; i=i+1){
     printf("%d, ", tab[i]);
   }
-  while (int i<counter) {
+  while (i<counter) {
     printf("%d, ", tab[i]);
   }
   return 0;
